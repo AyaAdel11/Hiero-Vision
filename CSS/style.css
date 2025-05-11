@@ -426,6 +426,8 @@ button {
   padding-top: 20px;
 }
 .hiero-content div textarea {
+  width: 30rem;
+  height: 15rem;
   padding: 10px;
   font-weight: bold;
   font-size: large;
