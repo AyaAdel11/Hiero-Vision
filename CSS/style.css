@@ -432,7 +432,12 @@ button {
   font-weight: bold;
   font-size: large;
 }
-
+@media screen and (max-width:1150px){
+  .hiero-content div textarea {
+  width: 15rem;
+  height: 7rem;
+}
+}
 /*=============== FOOTER ===============*/
 .footer{
   background-color: var(--frist-color);
